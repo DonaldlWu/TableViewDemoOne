@@ -4,7 +4,7 @@
 //
 //  Created by 吳得人 on 2017/10/9.
 //  Copyright © 2017年 吳得人. All rights reserved.
-//
+//  Edit by ipad
 
 import UIKit
 
